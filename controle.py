@@ -7,7 +7,7 @@ numero_id = 0
 banco = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
-    passwd = '',
+    passwd = 'root',
     database = 'cadastro_produtos'
 )
 
